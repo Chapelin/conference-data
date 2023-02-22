@@ -553,12 +553,12 @@
     "locales": "EN"
   },
   {
-    "name": "Prairie Dev Con winnipeg",
+    "name": "Prairie Dev Con Winnipeg",
     "url": "https://www.prairiedevcon.com/winnipeg.html",
     "startDate": "2023-06-12",
     "endDate": "2023-06-13",
     "city": "Winnipeg",
-    "country": "Ca",
+    "country": "Canada",
     "online": false,
     "cfpUrl": "https://www.papercall.io/prdcwinnipeg2023",
     "cfpEndDate": "2023-02-25",
